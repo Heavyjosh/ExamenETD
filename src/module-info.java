@@ -1,0 +1,2 @@
+module PruebaJunitJose {
+}
